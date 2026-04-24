@@ -1,0 +1,11 @@
+# Personal config — each user fills in their own
+references/config.md
+!/references/config.md
+
+# Personal session notes and history — kept out of the public repo
+notes/**/*.md
+!notes/.gitkeep
+
+# macOS
+.DS_Store
+
