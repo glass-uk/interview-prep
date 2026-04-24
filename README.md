@@ -13,7 +13,7 @@
 |_|                      
 ```
 
-**A [Claude Code](https://claude.ai/code) skill for senior software engineering interview preparation.**  
+**A [Claude Code](https://claude.ai/code) skill for software engineering interview preparation.**  
 Structured mock interviews with per-answer scoring, session notes, spaced repetition, and progress tracking — all running locally inside your Claude Code session.
 
 ---
