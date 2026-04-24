@@ -1,17 +1,6 @@
-```
-  _       _                  _               
- (_)_ __ | |_ ___ _ ____   _(_) _____      __
- | | '_ \| __/ _ \ '__\ \ / / |/ _ \ \ /\ / /
- | | | | | ||  __/ |   \ V /| |  __/\ V  V / 
- |_|_| |_|\__\___|_|    \_/ |_|\___| \_/\_/  
-                                              
-                          
- _ __  _ __ ___ _ __     
-| '_ \| '__/ _ \ '_ \    
-| |_) | | |  __/ |_) |   
-| .__/|_|  \___|_.__/    
-|_|                      
-```
+<p align="center">
+  <img src="assets/banner.svg" alt="interview prep — a claude code skill" width="800" />
+</p>
 
 **A [Claude Code](https://claude.ai/code) skill for software engineering interview preparation.**  
 Structured mock interviews with per-answer scoring, session notes, spaced repetition, and progress tracking — all running locally inside your Claude Code session.
@@ -58,7 +47,7 @@ Structured mock interviews with per-answer scoring, session notes, spaced repeti
 ## Installation
 
 ```bash
-git clone https://github.com/glass-uk/interview-prep ~/.claude/skills/interview-prep
+git clone https://github.com/YOUR_USERNAME/interview-prep ~/.claude/skills/interview-prep
 cp ~/.claude/skills/interview-prep/references/config.example.md \
    ~/.claude/skills/interview-prep/references/config.md
 ```
@@ -236,6 +225,8 @@ interview-prep/
 ├── SKILL.md                          # Skill definition — read by Claude Code at runtime
 ├── README.md                         # This file
 ├── .gitignore                        # Excludes config.md and notes from the repo
+├── assets/
+│   └── banner.svg                    # README banner
 ├── references/
 │   ├── config.example.md             # Config template — copy to config.md and edit
 │   ├── config.md                     # Your personal config (gitignored)
