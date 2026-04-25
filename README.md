@@ -167,7 +167,7 @@ warmup: ask
 | Field | Options | Description |
 |---|---|---|
 | `tech_stack` | comma-separated list | Technologies to practise. Used for question selection, dynamic generation, and scoring calibration. |
-| `target_level` | `mid` · `senior` · `staff` · `principal` | Sets difficulty framing and feedback expectations. |
+| `target_level` | `junior` · `mid` · `senior` · `staff` · `principal` | Sets difficulty framing and feedback expectations. |
 | `notes_path` | any path | Where session notes are saved. Default: `notes/` inside this directory. |
 | `time_tracking` | `on` · `off` | Estimates speaking time per answer and flags if outside the target window. |
 | `warmup` | `ask` · `always` · `off` | Controls whether the "Tell me about yourself" opener is included each session. |
