@@ -47,7 +47,7 @@ Structured mock interviews with per-answer scoring, session notes, spaced repeti
 ## Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/interview-prep ~/.claude/skills/interview-prep
+git clone https://github.com/glass-uk/interview-prep ~/.claude/skills/interview-prep
 cp ~/.claude/skills/interview-prep/references/config.example.md \
    ~/.claude/skills/interview-prep/references/config.md
 ```
