@@ -6,7 +6,7 @@ This example shows the expected flow for a behavioral interview session, includi
 
 **Interviewer:** Tell me about a time you had to push back on a deadline or scope from a stakeholder.
 
-**User:** In my last role we were asked to deliver a new parcel tracking API in two weeks. I knew the schema design needed more time so I pushed back by showing the PM a risk matrix of what would break if we rushed it.
+**User:** In my last role we were asked to deliver a new tracking API in two weeks. I knew the schema design needed more time so I pushed back by showing the PM a risk matrix of what would break if we rushed it.
 
 ---
 
